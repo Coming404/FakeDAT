@@ -25,8 +25,8 @@
 
 ## 🚀 下载地址
 
-- **GitHUb原生地址👉**：[FakeDAT v0.1.0.rar](https://github.com/Coming404/FakeDAT/releases/download/0.1.0/FakeDAT.rar)
-- **镜像加速地址👉**：[FakeDAT v0.1.0.rar](https://hk.gh-proxy.org/https://github.com/Coming404/FakeDAT/releases/download/0.1.0/FakeDAT.rar)
+- **GitHUb原生地址👉**：[FakeDAT v0.1.0.rar](https://github.com/Coming404/FakeDAT/releases/download/0.1.0/FakeDAT.v0.1.0.rar)
+- **镜像加速地址👉**：[FakeDAT v0.1.0.rar](https://hk.gh-proxy.org/https://github.com/Coming404/FakeDAT/releases/download/0.1.0/FakeDAT.v0.1.0.rar)
 ---
 
 ## ✅ 环境要求
