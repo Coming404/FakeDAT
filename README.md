@@ -1,6 +1,6 @@
 # FakeDAT
 
-🧰 **FakeDAT** 是一个面向 **俄服剑灵Blade&Soul（BNS）** 的 **DAT** 解包/编辑/回包工具，基于 **Tauri + React + Rust** 构建
+🧰 **FakeDAT** 是一个面向 **俄服剑灵Blade&Soul（BNS）** 的 **xml.dat** 解包/编辑/回包工具，基于 **Tauri + React + Rust** 构建
 | ![](https://github.com/user-attachments/assets/a55aaafc-5ea8-4763-8350-88cf4d2d081c) | ![](https://github.com/user-attachments/assets/838c11cb-3586-4118-8e87-2b5d3f5b034f) |
 | --- | --- |
 
